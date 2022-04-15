@@ -1,2 +1,2 @@
 .nnvar : final @NotNull T name = expr
-	NON_VOID                →   final @NotNull $type*:expressionType(expr))$ $var:suggestVariableName()$ = $expr$;
+	NON_VOID                →   final @NotNull $type*:expressionType(expr))$ $var:suggestVariableName()$ = $expr$;$END$
